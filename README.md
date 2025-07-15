@@ -6,7 +6,7 @@ An AI-powered Reddit user persona analyzer that generates comprehensive psycholo
 
 **Get GROQ API key here - https://console.groq.com/keys**
 
-**Also if first time if the code throws "invalid API key" error then create another API key from the same link and it'll work for sure**
+**Also if first time if the code throws "invalid API key" error then create another API key from the same link and it'll work for sure.**
 
 ## 📁 Project Structure
 

@@ -2,7 +2,7 @@
 
 An AI-powered Reddit user persona analyzer that generates comprehensive psychological profiles and business insights using GROQ's Llama 3 70B model.
 
-**IMPORTANT - Create a .env file and enter your groq api key like this GROQ_API_KEY=your_api_key_here**
+**IMPORTANT - Create a .env file in your system after pulling this Repo**
 
 **Get GROQ API key here - https://console.groq.com/keys**
 

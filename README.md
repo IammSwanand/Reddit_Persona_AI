@@ -94,7 +94,7 @@ Each generated persona includes:
 
 ```bash
 # Basic usage
-python script.py
+py script.py
 
 # Example interaction:
 Enter Reddit profile information:

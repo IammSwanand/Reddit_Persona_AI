@@ -33,7 +33,7 @@ Reddit_Persona_AI/
 
 3. **Run the script:**
    ```bash
-   python script.py
+   py script.py
    ```
 
 4. **Follow the interactive prompts:**

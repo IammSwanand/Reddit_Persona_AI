@@ -2,9 +2,7 @@
 
 An AI-powered Reddit user persona analyzer that generates comprehensive psychological profiles and business insights using GROQ's Llama 3 70B model.
 
-
-This repository includes a pre-configured `.env` file with the API key for immediate testing.
-
+** Create a .env file and enter your groq api key like this GROQ_API_KEY=your_api_key_here **
 
 ## 📁 Project Structure
 
@@ -24,13 +22,17 @@ Reddit_Persona_AI/
    ```bash
    pip install -r requirements.txt
    ```
+3. **Create a .env file and add GROQ API Key**
+   ```.env
+   GROQ_API_KEY=your_api_key_here
+   ```
 
-2. **Run the script:**
+3. **Run the script:**
    ```bash
    python script.py
    ```
 
-3. **Follow the interactive prompts:**
+4. **Follow the interactive prompts:**
    - Enter Reddit username or profile URL
    - Choose output filename (or press Enter for auto-generated)
    - Set data analysis limit (default: 1000 posts/comments)

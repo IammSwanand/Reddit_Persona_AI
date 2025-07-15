@@ -38,9 +38,9 @@ Reddit_Persona_AI/
 
 4. **Follow the interactive prompts:**
     ```bash
-   - Enter Reddit username or profile URL
-   - Choose output filename (or press Enter for auto-generated)
-   - Set data analysis limit (default: 1000 posts/comments)
+   - Enter Reddit username or profile URL:
+   - Choose output filename (or press Enter for auto-generated):
+   - Set data analysis limit (default: 1000 posts/comments):
    ```
 
 ## 🎯 Features
